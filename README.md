@@ -11,6 +11,7 @@ Each and every gene matters! Most of which contributes to its look and loot. Unl
 - Rainbow sheep are no longer a look. Depending on specific genes instead of name, rainbow sheep drop different wools
 - Merge cows and mooshroom by different gene types.
 - Mixed type of mooshroom growing both red and brown mushroom, even with a flower! 
+- Saddle of a pig can be taken down by shearing.
 - Some easter eggs hidden.
 
 ## Current Status
