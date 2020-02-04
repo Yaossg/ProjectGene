@@ -1,0 +1,26 @@
+
+modLoader="javafml"
+loaderVersion="[28,)"
+# issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+modId="project_gene"
+version="${file.jarVersion}"
+displayName="ProjectGene"
+# logoFile="examplemod.png"
+credits="Yaossg"
+authors="Yaossg"
+description='''Genes inside!'''
+
+[[dependencies.project_gene]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.project_gene]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28.1,)"
+    ordering="NONE"
+    side="BOTH"
