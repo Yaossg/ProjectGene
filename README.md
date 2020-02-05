@@ -12,6 +12,7 @@ Each and every gene matters! Most of which contributes to its look and loot. Unl
 - Merge cows and mooshroom by different gene types. Cows also eat grass and mushroom sheared also grow back.
 - Mixed type of mooshroom growing both red and brown mushroom, even with a flower! 
 - Saddle of a pig can be taken down by shearing.
+- Some staff and potion to control animals' behaviors like growth and sex. Particularly you can let them selfing.
 - Some easter eggs hidden.
 
 ## Current Status
